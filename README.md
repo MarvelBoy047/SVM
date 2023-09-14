@@ -3,23 +3,23 @@ Support Vector Classification vs. K-Nearest Neighbors
 
 In this code snippet, we ventured into the world of classification, pitting the robust Support Vector Classification (SVC) against the amicable K-Nearest Neighbors (KNN) algorithm. Our mission? To distinguish between 'malignant' and 'benign' tumors in a breast cancer dataset.
 
-The Battlefield: Breast Cancer Dataset
+# The Battlefield: Breast Cancer Dataset
 
 Our dataset was a battleground of cancer cell features, where each data point represented a tumor waiting to be classified. 'Malignant' tumors are the invaders, while 'benign' ones are the peaceful inhabitants.
 
-SVC: The Fortress Builder
+# SVC: The Fortress Builder
 
 SVC, a formidable knight in the classification realm, marched forward. It meticulously drew a decision boundary, akin to a sturdy fortress wall, to separate the 'malignant' invaders from the 'benign' inhabitants. Its aim? To minimize misclassifications and protect the kingdom from harm.
 
-KNN: The Friendly Neighbor
+# KNN: The Friendly Neighbor
 
 On the other side of the battlefield, KNN took a neighborly approach. It examined each new data point and sought advice from its thirteen closest neighbors. Their votes determined the fate of the data point - was it a 'malignant' intruder or a 'benign' local? KNN was all about consensus.
 
-The Verdict: Accuracy Score
+# The Verdict: Accuracy Score
 
 After the battle, it was time for the verdict. The accuracy score, a measure of our models' prowess, revealed their performance. SVC and KNN awaited the judgment.
 
-The Aftermath: Accurate Classifications
+# The Aftermath: Accurate Classifications
 
 The accuracy score arrived, and both SVC and KNN performed admirably. They made accurate classifications, ensuring that tumors were rightly identified as 'malignant' or 'benign,' contributing to better medical diagnoses.
 
